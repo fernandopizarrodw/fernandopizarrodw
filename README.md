@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👨‍💻 Fernando Pizarro | Frontend Developer
 
 ¡Bienvenido a mi portfolio de desarrollos frontend! Soy **Fernando**, un desarrollador en formación con una fuerte base en HTML y CSS, actualmente aprendiendo JavaScript a través de programas como **Frontend Mentor**, **FreeCodeCamp** y **Talento Tech 2025**.
