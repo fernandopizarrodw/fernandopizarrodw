@@ -1,38 +1,49 @@
 # 👨‍💻 Fernando Pizarro | Frontend Developer
 
-¡Bienvenido a mi portfolio de desarrollos frontend! Soy **Fernando**, un desarrollador en formación con una fuerte base en HTML y CSS, actualmente aprendiendo JavaScript a través de programas como **Frontend Mentor**, **FreeCodeCamp** y **Talento Tech 2025**.
+Hola! Soy Fernando, desarrollador frontend en formación con enfoque práctico y creativo.
+Vengo del mundo de la música, el diseño y la edición audiovisual, lo que me aporta una mirada estética muy afinada para la web.
 
----
+Actualmente tengo experiencia sólida en:
 
-## 🚀 Proyectos destacados
+HTML semántico y CSS moderno 🎨
 
-Todos los proyectos que vas a encontrar aquí están enfocados en la práctica de:
-- Diseño responsivo (mobile-first)
-- Maquetado con HTML y CSS
-- Uso de Flexbox y Media Queries
-- Mejora continua del código y buenas prácticas
+Flexbox, Media Queries y diseño responsive Mobile First 📱
 
-Podés ver mis soluciones a los desafíos en Frontend Mentor, con sus respectivos links a:
-- Código fuente (GitHub)
-- Deploy (GitHub Pages)
-- Descripción y aprendizajes
+Buenas prácticas como la metodología BEM y organización de repositorios
 
----
+GitHub Pages para deploys y documentación profesional en inglés
+
+
+Estoy en proceso de dominar:
+
+CSS Grid y Animaciones (curso en progreso en FreeCodeCamp)
+
+JavaScript, que ya apliqué en proyectos reales con:
+
+Countdown, modales, scroll reveal y reproductores de audio
+
+Integración de la librería tsParticles, agregando efectos visuales interactivos en el footer con emojis animados, movimiento por hover/touch y botones de control
+
+
+
+Además:
+
+Completé +20 desafíos reales en Frontend Mentor (nivel principiante y junior)
+
+Trabajo en un emprendimiento de invitaciones digitales personalizadas, aplicando HTML, CSS, branding y deploys reales
+
+Clono y adapto landings comerciales con Carrd.co, explorando el diseño web desde múltiples enfoques
+
+
+🎯 Mi objetivo: seguir perfeccionando mis habilidades, avanzar con JavaScript y crecer en un equipo donde aportar mi sensibilidad estética, atención al detalle y enfoque profesional.
 
 ## 📌 Perfil en otras plataformas
 
 - 🌐 [Frontend Mentor](https://www.frontendmentor.io/profile/fernandopizarrow)
 - 💼 [LinkedIn - fernandopizarro-dev](https://www.linkedin.com/in/fernandopizarro-dev)
 
----
+-Gracias por visitar mi perfil. ¡Seguimos construyendo!
 
-## 🎯 Objetivo
-
-Seguir perfeccionando mis habilidades en desarrollo frontend, construir una base sólida en JavaScript y dar el salto al mundo laboral tech. Este portfolio es mi forma de compartir el proceso y la evolución.
-
----
-
-Gracias por visitar 🙌
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
