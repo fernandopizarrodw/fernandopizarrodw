@@ -47,18 +47,33 @@ Clono y adapto landings comerciales con Carrd.co, explorando el diseño web desd
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Hi there 👋 I'm Fernando!
+# Fernando Pizarro | Frontend Developer
 
-🎸 I'm a musician and video editor with experience in visual storytelling, currently transitioning into the world of web development. I'm passionate about clean and accessible design, and I’m building my skills as a frontend developer.
+Hi there! I'm Fernando, a frontend developer in training with a practical and creative approach.  
+My background in music, design, and audiovisual editing gives me a strong aesthetic sense for everything visual.
 
-🌱 I’m currently learning:
-- HTML5 / CSS3 (Responsive Design, Flexbox, Grid)
-- JavaScript (Vanilla)
-- Git & GitHub
-- Frontend Mentor Challenges
+I have solid experience in:
 
-🎯 My goal:
-Become a frontend developer who creates accessible, aesthetic, and efficient websites and web apps.
+- Semantic HTML and modern CSS 🎨  
+- Flexbox, Media Queries, and responsive Mobile First design 📱  
+- Clean code practices using the BEM methodology  
+- Deploys and project documentation using GitHub Pages and README files in English  
+
+Currently learning:
+
+- CSS Grid and Animations (ongoing FreeCodeCamp course)  
+- JavaScript (already applied in real projects with countdowns, modals, scroll effects, audio players)
+
+Additional experience:
+
+- Completed 20+ real-world challenges from Frontend Mentor (beginner to junior level)  
+- Built digital invitation websites for real clients, applying HTML, CSS, and branding  
+- Cloning and customizing commercial landing pages using Carrd.co  
+
+🎯 My goal is to keep improving my skills, level up in JavaScript, and grow within a team where I can bring design sensitivity, attention to detail, and professionalism.
+
+Thanks for stopping by! 🙌
+
 
 📫 How to reach me:
 - LinkedIn: [fernandopizarro-dev](https://www.linkedin.com/in/fernandopizarro-dev)
